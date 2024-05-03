@@ -147,3 +147,7 @@ jsconfig.json
 hugo_stats.json
 go.sum
 yarn.lock
+.DS_Store
+/node_modules
+/public
+/resources
