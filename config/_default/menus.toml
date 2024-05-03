@@ -53,16 +53,12 @@ pageRef = "/404"
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Impressum"
 pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
+name = "Datenschutz"
 pageRef = "/elements"
 weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-weight = 3
