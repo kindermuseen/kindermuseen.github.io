@@ -136,14 +136,14 @@ Thumbs.db
 .tmp
 .lock
 .sass-cache
-#npm-debug.log
-#node_modules
+npm-debug.log
+node_modules
 builds
 package-lock.json
-# public
+public
 resources
-#.hugo_build.lock
+.hugo_build.lock
 jsconfig.json
 hugo_stats.json
-#go.sum
-#yarn.lock
+go.sum
+yarn.lock
