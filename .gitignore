@@ -4,6 +4,7 @@
 /public/*
 /public/*.*
 public/*
+public
 
 
 /resources
@@ -158,3 +159,4 @@ hugo_stats.json
 go.sum
 yarn.lock
 /public
+.DS_Store
