@@ -1,53 +1,28 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Bundesverband Deutscher Kinder- und Jugendmuseen e. V."
+  content: "Der Bundesverband setzt sich für über 36 Kinder- und Jugendmuseen sowie Initiativen in Deutschland, Österreich und der Schweiz ein, fördert deren Projekte und bietet umfassende Beratung und Vernetzung."
+  image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Alle Museen"
+    link: "/museen"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Unser Auftrag"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Der Bundesverband vertritt die Interessen von über 36 Kinder- und Jugendmuseen und Initiativen in Deutschland, Österreich und der Schweiz. Unsere Mitglieder arbeiten in Kinder- und Jugendmuseen, in Abteilungen für Kinder- und Jugendliche der Spartenmuseen, oder kuratieren temporäre interaktive Kinder- und Jugendausstellungen."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      - "Wir werben für die Arbeit unserer Mitglieder"
+      - "Wir zeigen Projekte"
+      - "Wir vermitteln Kontakte, Ausstellungen und Konzepte"
+      - "Wir zeigen, wie Kinder- und Jugendmuseen arbeiten,  mit wem sie kooperieren und wie ihre unterschliedlichen Profile aussehen"
 
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-    button:
-      enable: false
-      label: ""
-      link: ""
+      label: "Mehr erfahren"
+      link: "#"
 ---

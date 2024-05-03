@@ -1,20 +1,25 @@
-############# English navigation ##############
+############# German navigation ##############
 
 # main menu
 [[main]]
-name = "Home"
+name = "Start"
 pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Über uns"
 pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
+name = "Mitgliedschaft"
 pageRef = "/elements"
 weight = 3
+
+[[main]]
+name = "Museen"
+pageRef = "/elements"
+weight = 4
 
 [[main]]
 weight = 4
